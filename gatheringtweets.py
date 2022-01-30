@@ -4,10 +4,10 @@ import operator
 from textblob import TextBlob
 
 # this is to connect to twitter these codes are on the twitter deleveloper page
-api = twitter.Api(consumer_key='SrydO2m50gKvBVOf8SkqN2Eha',
-                  consumer_secret='35UByOCNUldluW1Hbh2Ez1caK0gE82relRpYtBab5NJndX3bBA',
-                  access_token_key='1140787513-HgIagstGQVSPS3MmCr1NfR7evgB0PYGe4V82ZXt',
-                  access_token_secret='56VlyeQBkigmFoNsdGniNCcnqHfgBUpsRnvjviOFhVACP',
+api = twitter.Api(consumer_key='###################',
+                  consumer_secret='#######################',
+                  access_token_key='############################',
+                  access_token_secret='#################################',
                   tweet_mode='extended',
                   sleep_on_rate_limit=True,
                   )
